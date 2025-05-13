@@ -1,9 +1,10 @@
 🚀 Foodie(Food delivery app) ! 🍔🍕🍣
-I am thrilled to announce the completion and deployment of Food Mania, a dynamic web application designed for food lovers and delivery enthusiasts.
+
+I am thrilled to announce the completion and deployment of Food delivery app(Foodie), a dynamic web application designed for food lovers and delivery enthusiasts.
 
 🌟 Project Overview :
 
- - Foodie  is a user-friendly platform that allows customers to browse various food items from multiple restaurants, place orders, and have their favorite meals delivered right to their doorstep. 
+ - Foodie  is a user-friendly platform that allows customers to browse various food items from multiple restaurants, place orders, and have their favorite meals delivered right to     their doorstep. 
  - The application offers a seamless experience from menu selection to checkout, ensuring that users enjoy their culinary adventures effortlessly.
 
 💻 Technologies Used :
